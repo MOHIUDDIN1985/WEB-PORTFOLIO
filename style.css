@@ -50,7 +50,8 @@ section{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
     height: 80%;
-    background-color: white;
+    background-color: white
+    ;
 }
 .expeience-area{
     background-image: url("C:\GIT PROJECTS\WEB DEVELOPMENT\images\back3.jpg");
