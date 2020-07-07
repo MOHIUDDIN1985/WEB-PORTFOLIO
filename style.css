@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 50%;
+
+}
+.top-banner{
+    background-image: url(C:\GIT PROJECTS\WEB DEVELOPMENT\WEB-PORTFOLIO\Background-image-01.jpg);
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:blue;
+    font-weight: 700;
+
+}
+.full-width img{
+    width: 40%;
+    
+}
+.full-width{
+    
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.expeience-area{
+    background-image: url("C:\GIT PROJECTS\WEB DEVELOPMENT\images\back3.jpg");
+    background-repeat: none;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon tomato) ;
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon tomato) ;
+    border-image-slice: 1;
+}
